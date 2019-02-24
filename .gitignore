@@ -1,0 +1,6 @@
+.idea/
+myransom
+*.iml
+target/
+decrypted
+cipher
