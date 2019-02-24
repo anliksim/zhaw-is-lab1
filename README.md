@@ -4,6 +4,6 @@ Secret key decryption based on [ZHAW ITSec secret key crypto lab](https://github
 
 ## Content
 
-Encrypting the mystery file gives us a text called [Ulysses from James Joyce](http://www.online-literature.com/james_joyce/ulysses/18/).
+Encrypting the mystery file gives us [Episode 18 (Penelope) from Ulysses written by James Joyce](http://www.online-literature.com/james_joyce/ulysses/18/).
 
 
